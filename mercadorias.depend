@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662314482 source:c:\users\lucas\desktop\fatec\2º semestre\1 - linguagens de programação\desafio 2 - mercadorias\mercadorias\main.cpp
+	<iostream>
+	<iomanip>
+	<locale>
+
